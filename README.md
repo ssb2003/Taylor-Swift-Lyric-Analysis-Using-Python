@@ -1,1 +1,2 @@
 # Taylor-Swift-Lyric-Analysis-Using-Python
+This Python case study analyzes Taylor Swift's lyrics using natural language processing (NLP) and sentiment analysis techniques.Unstructured text is turned into analyzable features, keywords and themes are being identfied in the text,  sentiment analysis is also applied to understand the overall sentiment across her body of work, and created visualizations to demonstrate trends.
